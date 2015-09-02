@@ -1,0 +1,1 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Asynchronous\CS\client\bin\client.exe.config

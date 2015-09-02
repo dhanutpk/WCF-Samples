@@ -1,0 +1,8 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\bin\client.exe.config
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\bin\client.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\bin\client.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\Properties.Resources.resources
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.pdb

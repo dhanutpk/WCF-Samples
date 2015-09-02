@@ -1,0 +1,4 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Duplex\CS\service\bin\service.dll
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Duplex\CS\service\bin\service.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Duplex\CS\service\obj\Debug\service.dll
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Duplex\CS\service\obj\Debug\service.pdb

@@ -1,0 +1,6 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Services\Reentrant\CS\Service\bin\Service.exe.config
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Services\Reentrant\CS\Service\bin\Service.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Services\Reentrant\CS\Service\bin\Service.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Services\Reentrant\CS\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Services\Reentrant\CS\Service\obj\Debug\Service.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Services\Reentrant\CS\Service\obj\Debug\Service.pdb

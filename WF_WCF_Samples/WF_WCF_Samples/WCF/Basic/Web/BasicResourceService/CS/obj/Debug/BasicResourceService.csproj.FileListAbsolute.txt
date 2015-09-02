@@ -1,0 +1,6 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicResourceService\CS\bin\Debug\BasicResourceServiceSample.exe.config
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicResourceService\CS\bin\Debug\BasicResourceServiceSample.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicResourceService\CS\bin\Debug\BasicResourceServiceSample.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicResourceService\CS\obj\Debug\BasicResourceService.csprojResolveAssemblyReference.cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicResourceService\CS\obj\Debug\BasicResourceServiceSample.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicResourceService\CS\obj\Debug\BasicResourceServiceSample.pdb

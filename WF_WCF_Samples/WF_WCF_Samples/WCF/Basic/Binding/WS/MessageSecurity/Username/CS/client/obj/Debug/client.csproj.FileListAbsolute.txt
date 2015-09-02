@@ -1,0 +1,6 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Binding\WS\MessageSecurity\Username\CS\client\bin\client.exe.config
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Binding\WS\MessageSecurity\Username\CS\client\bin\client.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Binding\WS\MessageSecurity\Username\CS\client\bin\client.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Binding\WS\MessageSecurity\Username\CS\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Binding\WS\MessageSecurity\Username\CS\client\obj\Debug\client.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Binding\WS\MessageSecurity\Username\CS\client\obj\Debug\client.pdb

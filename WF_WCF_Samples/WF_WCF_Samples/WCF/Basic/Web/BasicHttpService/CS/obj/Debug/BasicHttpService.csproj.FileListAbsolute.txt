@@ -1,0 +1,6 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicHttpService\CS\bin\Debug\BasicHttpServiceSample.exe.config
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicHttpService\CS\bin\Debug\BasicHttpServiceSample.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicHttpService\CS\bin\Debug\BasicHttpServiceSample.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicHttpService\CS\obj\Debug\BasicHttpService.csprojResolveAssemblyReference.cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicHttpService\CS\obj\Debug\BasicHttpServiceSample.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Web\BasicHttpService\CS\obj\Debug\BasicHttpServiceSample.pdb

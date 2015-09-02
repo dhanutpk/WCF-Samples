@@ -1,0 +1,7 @@
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\bin\image.jpg
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\bin\service.exe.config
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\bin\service.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\bin\service.pdb
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\obj\Debug\service.exe
+D:\Users\djogihal\Downloads\WF_WCF_Samples\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\service\obj\Debug\service.pdb
